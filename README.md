@@ -1,4 +1,7 @@
-![felldos's GitHub stats](https://github-readme-stats.vercel.app/api?username=felldo&count_private=true&show_icons=true&theme=dark)
+<picture>
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</picture>
+<!--![felldos's GitHub stats](https://github-readme-stats.vercel.app/api?username=felldo&count_private=true&show_icons=true&theme=dark)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felldo)](https://github.com/felldo/github-readme-stats)-->
 
