@@ -1,5 +1,5 @@
 <picture>
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+  <img align="center" src="/github-metrics.svg" alt="Metrics">
 </picture>
 <!--![felldos's GitHub stats](https://github-readme-stats.vercel.app/api?username=felldo&count_private=true&show_icons=true&theme=dark)-->
 
